@@ -1,0 +1,8 @@
+jkjl;kkkk
+o
+2
+<<<<<<< HEAD
+=======
+3
+>>>>>>> featurel
+4
